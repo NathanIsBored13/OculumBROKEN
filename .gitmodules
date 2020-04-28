@@ -1,0 +1,3 @@
+[submodule "Oculum/vendors"]
+	path = Oculum/vendors
+	url = https://github.com/gabime/spdlog
